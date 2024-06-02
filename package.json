@@ -1,13 +1,5 @@
 {
-  "name": "serviceBooking_Group8_SME",
-  "version": "1.0.0",
-  "description": "A simple service booking application",
-  "scripts": {
-    "test": "echo \"No tests specified\" && exit 0",
-    "lint": "eslint ."
-  },
   "devDependencies": {
-    "eslint": "^8.0.0",
-    "stylelint": "^15.0.0"
+    "stylelint-config-standard": "^36.0.0"
   }
 }
